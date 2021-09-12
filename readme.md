@@ -1,2 +1,2 @@
-Annu's commands website URL
+Commands website URL
 https://annuannajoy.github.io/commandsRepo/
